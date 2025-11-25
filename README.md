@@ -1,7 +1,7 @@
 #### MENU DE INSTALACION
 
 ```
-bash <(curl -fsSL https://raw.githubusercontent.com/ rogellevi/badvpn-pro/main/padvpn-pro.sh)
+bash <(curl -fsSL https://raw.githubusercontent.com/ rogellevi/badvpn-pro/main/badvpn-pro.sh)
 ```
 
 #### MENU DE INSTALACION + DASHBOARD
