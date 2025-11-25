@@ -10,21 +10,14 @@ curl -L https://raw.githubusercontent.com/rogellevi/badvpn-pro/main/badvpn-pro.s
 ```
 curl -L https://raw.githubusercontent.com/rogellevi/badvpn-pro/main/badvpn-pro-max-dashboard.sh -o badvpn-pro-max-dashboard.sh && chmod +x badvpn-pro-max-dashboard.sh && sudo ./badvpn-pro-max-dashboard.sh
 ```
-#### PERMISOS
 
-```
-chmod +x badvpn-pro-max-dashboard.sh
-```
 
 #### MENU DE INSTALACION + DASHBOARD + ARM64
 
 ```
 curl -L https://raw.githubusercontent.com/rogellevi/badvpn-pro/main/badvpn-pro-max-dashboard.sh -o badvpn-pro-max-dashboard.sh && chmod +x badvpn-pro-max-dashboard.sh && sudo ./badvpn-pro-max-dashboard.sh
 ```
-#### PERMISOS
-```
-chmod +x badvpn-pro-max-universal.sh
-```
+
 
 Funciona en AMD64 y ARM64, incluyendo Raspberry Pi 4/3 y servidores modernos.
 
