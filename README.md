@@ -8,7 +8,7 @@ curl -L https://raw.githubusercontent.com/rogellevi/badvpn-pro/main/badvpn-pro.s
 #### MENU DE INSTALACION + DASHBOARD
 
 ```
-bash <(curl -fsSL https://raw.githubusercontent.com/ rogellevi/badvpn-pro/main/badvpn-pro-max-dashboard.sh)
+curl -L https://raw.githubusercontent.com/rogellevi/badvpn-pro/main/badvpn-pro-max-dashboard.sh -o badvpn-pro-max-dashboard.sh && chmod +x badvpn-pro-max-dashboard.sh && sudo ./badvpn-pro-max-dashboard.sh
 ```
 #### PERMISOS
 
@@ -19,7 +19,7 @@ chmod +x badvpn-pro-max-dashboard.sh
 #### MENU DE INSTALACION + DASHBOARD + ARM64
 
 ```
-bash <(curl -fsSL https://raw.githubusercontent.com/ rogellevi/badvpn-pro/main/badvpn-pro-max-dashboard.sh)
+curl -L https://raw.githubusercontent.com/rogellevi/badvpn-pro/main/badvpn-pro-max-dashboard.sh -o badvpn-pro-max-dashboard.sh && chmod +x badvpn-pro-max-dashboard.sh && sudo ./badvpn-pro-max-dashboard.sh
 ```
 #### PERMISOS
 ```
