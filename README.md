@@ -9,8 +9,14 @@ bash <(curl -fsSL https://raw.githubusercontent.com/ rogellevi/badvpn-pro/main/p
 ```
 bash <(curl -fsSL https://raw.githubusercontent.com/ rogellevi/badvpn-pro/main/badvpn-pro-max-dashboard.sh)
 ```
+#### PERMISOS
+
+```
+chmod +x badvpn-pro-max-dashboard.sh
+```
 
 ----
+
 Bash script by Rogellevi
 
 > Official Github: https://github.com/rogellevi/badvpn-pro
